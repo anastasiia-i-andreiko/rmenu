@@ -1,2 +1,2 @@
 Репозиторій перенесено:
-https://github.com/anastasiia-i-andreiko/restaurant-menu
+https://github.com/anastasiia-i-andreiko/menurr
